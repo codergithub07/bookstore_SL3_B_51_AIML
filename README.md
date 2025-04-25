@@ -57,9 +57,6 @@ The Bookstore project is a web application designed to manage and showcase a col
 - **Containerization**: Docker
 - **CI/CD**: Jenkins
 
-## Screenshots
-Add screenshots of the application here (e.g., home page, admin panel, cart page).
-
 ## Docker and Jenkins Usage Notes
 - **Docker**: The `docker-compose.yml` file is configured to build and run the application in a containerized environment. Ensure Docker is installed and running on your system.
 - **Jenkins**: The `Jenkinsfile` contains the pipeline configuration for automating builds, tests, and deployments. Integrate this file with your Jenkins server to enable CI/CD.
